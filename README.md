@@ -1,5 +1,5 @@
 # Spark_Summit_2016
-Great Materials for Latest Spark Development
+Great Materials for Latest Spark Development:
 https://spark-summit.org/2016/schedule/
 
 
